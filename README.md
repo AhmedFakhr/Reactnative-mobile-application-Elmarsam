@@ -4,8 +4,10 @@
 
 
 **E-COMMERCE PLATFORMS USING AR AND AI**
+
 _(Website and cross-platform mobile application)_
-*(EL MARSAM)
+
+(EL MARSAM)
 
 
 A Mobile application using React native cross platform for art gallery selling and previewing paints and other art types.
