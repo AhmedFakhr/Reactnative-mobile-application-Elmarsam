@@ -8,7 +8,7 @@
                                                                       (EL MARSAM)
 
 
-  A Mobile application using React native cross platform for art gallery selling and previewing paints and other art types.
+A Mobile application using React native cross platform for art gallery selling and previewing paints and other art types.
 i used an open source template and changed somethings on it to make it near to my goal 
 the code that i used is from  https://github.com/Ahmadbkar/dribbble2react/tree/master/plant-app
 so i'm thankfull to all of the team that worked on this code UI and UX designers i learned alot from this code ♥ 
