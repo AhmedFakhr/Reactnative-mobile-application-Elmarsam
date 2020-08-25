@@ -18,9 +18,25 @@ i'm thankfull to the team that worked on the code template UI and UX designers i
 
 the application isn't complete yet i hope i will finish it some day 
 
-the screens and the code flow i will put it in a presentation file 
+# Screens
 
-all you need to do to run this code is 
+<img src="https://i.ibb.co/0rNstqT/Picture8.png" width="230"><img src="https://i.ibb.co/Yd86pVh/Picture9.jpg" width="250">
+<img src="https://i.ibb.co/xY69W89/Picture10.jpg" width="250"><img src="https://i.ibb.co/2NryCr0/Picture11.jpg" width="250">
+<img src="https://i.ibb.co/8Y3hwyw/Picture1.jpg" width="250">
+<img src="https://i.ibb.co/fDMrH6J/Picture2.jpg" width="250">
+<img src="https://i.ibb.co/HpGZMRc/Picture3.jpg" width="250">
+<img src="https://i.ibb.co/K9m8thx/Picture4.jpg" width="250">
+<img src="https://i.ibb.co/qFZnsV1/Picture5.jpg" width="250">
+<img src="https://i.ibb.co/N9BMmNx/Picture6.jpg" width="250">
+<img src="https://i.ibb.co/Sn1bv0S/Picture13.jpg" width="250">
+<img src="https://i.ibb.co/fNXCZtC/Picture14.jpg" width="250">
+<img src="https://i.ibb.co/236zyyt/Picture15.jpg" width="250">
+<img src="https://i.ibb.co/748gysb/Picture16.jpg" width="250">
+<img src="https://i.ibb.co/K7M373H/Picture17.jpg" width="250">
+
+
+
+all you need to do to run this code is :
 
 
 **first**
