@@ -3,8 +3,8 @@
 
 
 
-                                                          E-COMMERCE PLATFORMS USING AR AND AI
-                                                    (Website and cross-platform mobile application)
+                                                        **E-COMMERCE PLATFORMS USING AR AND AI**
+                                                   _(Website and cross-platform mobile application)_
                                                                       (EL MARSAM)
 
 
