@@ -20,8 +20,10 @@ the application isn't complete yet i hope i will finish it some day
 
 # Screens
 
-<img src="https://i.ibb.co/0rNstqT/Picture8.png" width="230"><img src="https://i.ibb.co/Yd86pVh/Picture9.jpg" width="250">
-<img src="https://i.ibb.co/xY69W89/Picture10.jpg" width="250"><img src="https://i.ibb.co/2NryCr0/Picture11.jpg" width="250">
+<img src="https://i.ibb.co/0rNstqT/Picture8.png" width="230">
+<img src="https://i.ibb.co/Yd86pVh/Picture9.jpg" width="250">
+<img src="https://i.ibb.co/xY69W89/Picture10.jpg" width="250">
+<img src="https://i.ibb.co/2NryCr0/Picture11.jpg" width="250">
 <img src="https://i.ibb.co/8Y3hwyw/Picture1.jpg" width="250">
 <img src="https://i.ibb.co/fDMrH6J/Picture2.jpg" width="250">
 <img src="https://i.ibb.co/HpGZMRc/Picture3.jpg" width="250">
@@ -33,7 +35,6 @@ the application isn't complete yet i hope i will finish it some day
 <img src="https://i.ibb.co/236zyyt/Picture15.jpg" width="250">
 <img src="https://i.ibb.co/748gysb/Picture16.jpg" width="250">
 <img src="https://i.ibb.co/K7M373H/Picture17.jpg" width="250">
-
 
 
 all you need to do to run this code is :
