@@ -23,28 +23,28 @@ the screens and the code flow i will put it in a presentation file
 all you need to do to run this code is 
 
 
-first 
+**first** 
 
   install npm at it's latest stable version
 
-second
+**second**
 
    open command prompt
   
-type 
+**type** 
 
    "npm install yarn expo-cli -g" it will take a few moments to add the packages 
 
-then 
+**then** 
 
    download the code 
    "go to the file using 'cd' commend "
    
-then
+**then**
 
    "yarn" it will install dependencies 
     
-then type 
+**then type** 
 
    "yarn start"
    
