@@ -20,7 +20,6 @@ the application isn't complete yet i hope i will finish it some day
 
 # Screens
 
-<img src="https://i.ibb.co/0rNstqT/Picture8.png" width="230">
 <img src="https://i.ibb.co/Yd86pVh/Picture9.jpg" width="250">
 <img src="https://i.ibb.co/xY69W89/Picture10.jpg" width="250">
 <img src="https://i.ibb.co/2NryCr0/Picture11.jpg" width="250">
